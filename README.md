@@ -1,1 +1,2 @@
-# st2195_assignment_3
+# Assignment_3
+### SQLite database query using the Harvard Dataverse, 2009 Data Expo
